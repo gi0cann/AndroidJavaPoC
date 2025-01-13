@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">JavaPoC</string>
+    <string name="main_title">Java PoCs</string>
+    <string name="btn_implicit_intent_txt">Launch implicit Intent</string>
+    <string name="btn_explicit_intent_txt">Launch implicit Intent</string>
+    <string name="btn_intent_redirection">Exploit InsecureShop Intent redirection</string>
 </resources>
